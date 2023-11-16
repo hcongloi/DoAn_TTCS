@@ -1,0 +1,28 @@
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\bin\Debug\demo_sort.exe.config
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\bin\Debug\demo_sort.exe
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\bin\Debug\demo_sort.pdb
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.AssemblyReference.cache
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.SuggestedBindingRedirects.cache
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.frm_main.resources
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.frm_Thong_tin.resources
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.Properties.Resources.resources
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.GenerateResource.cache
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.CoreCompileInputs.cache
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.exe
+D:\TTCS\Mo phong thuat toan sap xep CSharp\SOURCE\demo_sort\obj\x86\Debug\demo_sort.pdb
+D:\TTCS\SOURCE\demo_sort\bin\Debug\demo_sort.exe.config
+D:\TTCS\SOURCE\demo_sort\bin\Debug\demo_sort.exe
+D:\TTCS\SOURCE\demo_sort\bin\Debug\demo_sort.pdb
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.AssemblyReference.cache
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.SuggestedBindingRedirects.cache
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.frm_main.resources
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.frm_Thong_tin.resources
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.Properties.Resources.resources
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.GenerateResource.cache
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.csproj.CoreCompileInputs.cache
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.exe
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.pdb
+D:\TTCS\SOURCE\demo_sort\bin\Debug\demo_sort.exe.manifest
+D:\TTCS\SOURCE\demo_sort\bin\Debug\demo_sort.application
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.exe.manifest
+D:\TTCS\SOURCE\demo_sort\obj\x86\Debug\demo_sort.application
